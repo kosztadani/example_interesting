@@ -1,4 +1,4 @@
-package dev.kosztadani.examples.intersting.comments;
+package dev.kosztadani.examples.intersting.unicode;
 
 public class HiddenComment {
     public static void main(String[] args) {

@@ -15,18 +15,29 @@ In this case, it is recommended to `cat` the corresponding source code.
 ./gradlew build
 ```
 
-### EvilComment
+### Unicode escape sequences
+
+Messing around with Unicode escape sequences...
+
+#### EvilComment
 
 ```bash
-cat src/main/java/dev/kosztadani/examples/intersting/comments/EvilComment.java
-java -cp build/classes/java/main dev.kosztadani.examples.intersting.comments.EvilComment
+cat src/main/java/dev/kosztadani/examples/intersting/unicode/EvilComment.java
+java -cp build/classes/java/main dev.kosztadani.examples.intersting.unicode.EvilComment
 ```
 
-### HiddenComment
+#### HiddenComment
 
 ```bash
-cat src/main/java/dev/kosztadani/examples/intersting/comments/HiddenComment.java
-java -cp build/classes/java/main dev.kosztadani.examples.intersting.comments.HiddenComment
+cat src/main/java/dev/kosztadani/examples/intersting/unicode/HiddenComment.java
+java -cp build/classes/java/main dev.kosztadani.examples.intersting.unicode.HiddenComment
+```
+
+#### SeeminglyInvalid
+
+```bash
+cat src/main/java/dev/kosztadani/examples/intersting/unicode/SeeminglyInvalid.java
+java -cp build/classes/java/main dev.kosztadani.examples.intersting.unicode.SeeminglyInvalid
 ```
 
 ## Copyright
