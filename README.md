@@ -22,22 +22,22 @@ Messing around with Unicode escape sequences...
 #### EvilComment
 
 ```bash
-cat src/main/java/dev/kosztadani/examples/intersting/unicode/EvilComment.java
-java -cp build/classes/java/main dev.kosztadani.examples.intersting.unicode.EvilComment
+cat src/main/java/dev/kosztadani/examples/interesting/unicode/EvilComment.java
+java -cp build/classes/java/main dev.kosztadani.examples.interesting.unicode.EvilComment
 ```
 
 #### HiddenComment
 
 ```bash
-cat src/main/java/dev/kosztadani/examples/intersting/unicode/HiddenComment.java
-java -cp build/classes/java/main dev.kosztadani.examples.intersting.unicode.HiddenComment
+cat src/main/java/dev/kosztadani/examples/interesting/unicode/HiddenComment.java
+java -cp build/classes/java/main dev.kosztadani.examples.interesting.unicode.HiddenComment
 ```
 
 #### SeeminglyInvalid
 
 ```bash
-cat src/main/java/dev/kosztadani/examples/intersting/unicode/SeeminglyInvalid.java
-java -cp build/classes/java/main dev.kosztadani.examples.intersting.unicode.SeeminglyInvalid
+cat src/main/java/dev/kosztadani/examples/interesting/unicode/SeeminglyInvalid.java
+java -cp build/classes/java/main dev.kosztadani.examples.interesting.unicode.SeeminglyInvalid
 ```
 
 ## Copyright

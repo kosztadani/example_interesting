@@ -1,4 +1,4 @@
-package dev.kosztadani.examples.intersting.unicode;
+package dev.kosztadani.examples.interesting.unicode;
 
 public class SeeminglyInvalid \u007b
     public static void main(String[] args) \u007b

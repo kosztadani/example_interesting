@@ -1,4 +1,4 @@
-package dev.kosztadani.examples.intersting.unicode;
+package dev.kosztadani.examples.interesting.unicode;
 
 public class EvilComment {
     public static void main(String[] args) {
